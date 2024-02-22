@@ -1,0 +1,69 @@
+.scores {
+  position: fixed;
+  top: 0vh;
+  height: 5vh;
+  width: 100vw;
+  display: grid;
+}
+.players {
+  position: absolute;
+  left: 20vw;
+  display: grid;
+  grid-template-columns: repeat(4,10vw);
+}
+.player {
+  display: grid;
+  width: 10vw;
+  align-items: center;
+  justify-items: center;
+}
+.pot {
+  position: absolute;
+  right: 10vw;
+}
+.middle {
+  display: grid;
+  grid-area: "middle";
+}
+.main-board {
+  position: fixed;
+  top: 5vh;
+  display: grid;
+  grid-template-areas: 
+    "start s1a s1b s1c c1 s2a s2b s2c ca1"
+    "s8c middle middle middle middle middle middle middle s3a"
+    "s8b middle middle middle middle middle middle middle s3b"
+    "s8a middle middle middle middle middle middle middle s3c"
+    "c4 middle middle middle middle middle middle middle c2"
+    "s7c middle middle middle middle middle middle middle s4a"
+    "s7b middle middle middle middle middle middle middle s4b"
+    "s7a middle middle middle middle middle middle middle s4c"
+    "ca2 s6c s6b s6a c3 s5c s5b s5a jail";
+  height: 90vh;
+  width: 100vw;
+}
+.tile {
+  display: grid;
+  height: 10vh;
+  width: 100%;
+  grid-template-rows: repeat(3,1fr);
+  position: relative;
+  align-items: center;
+  justify-items: center;
+}
+.amount {
+  position: absolute;
+  left:0;
+  bottom: 0;
+}
+.step {
+  position: absolute;
+  right:0;
+  bottom: 0;
+}
+.actions {
+  position: fixed;
+  bottom: 0vh;
+  height: 5vh;
+  width: 100vw;
+}

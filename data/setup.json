@@ -1,0 +1,228 @@
+{
+  "tiles": [
+    {
+      "name": "Start",
+      "color": "white",
+      "step": 0,
+      "position": "start",
+      "amount": null
+    },
+    {
+      "name": "Dorpstraat",
+      "color": "blue",
+      "step": 1,
+      "position": "s1a",
+      "amount": 100
+    },
+    {
+      "name": "Dorpstraat",
+      "color": "blue",
+      "step": 2,
+      "position": "s1b",
+      "amount": 150
+    },
+    {
+      "name": "Dorpstraat",
+      "color": "blue",
+      "step": 3,
+      "position": "s1c",
+      "amount": 200
+    },
+    {
+      "name": "Kans",
+      "color": "white",
+      "step": 4,
+      "position": "c1",
+      "amount": null
+    },
+    {
+      "name": "something",
+      "color": "grey",
+      "step": 5,
+      "position": "s2a",
+      "amount": 300
+    },
+    {
+      "name": "something",
+      "color": "grey",
+      "step": 6,
+      "position": "s2b",
+      "amount": 350
+    },
+    {
+      "name": "something",
+      "color": "grey",
+      "step": 7,
+      "position": "s2c",
+      "amount": 400
+    },
+    {
+      "name": "Casino",
+      "color": "white",
+      "step": 8,
+      "position": "ca1",
+      "amount": null
+    },
+    {
+      "name": "something",
+      "color": "lightblue",
+      "step": 9,
+      "position": "s3a",
+      "amount": 500
+    },
+    {
+      "name": "something",
+      "color": "lightblue",
+      "step": 10,
+      "position": "s3b",
+      "amount": 550
+    },
+    {
+      "name": "something",
+      "color": "lightblue",
+      "step": 11,
+      "position": "s3c",
+      "amount": 600
+    },
+    {
+      "name": "Kans",
+      "color": "white",
+      "step": 12,
+      "position": "c2",
+      "amount": null
+    },
+    {
+      "name": "Neut",
+      "color": "brown",
+      "step": 13,
+      "position": "s4a",
+      "amount": 700
+    },
+    {
+      "name": "Neut",
+      "color": "brown",
+      "step": 14,
+      "position": "s4b",
+      "amount": 750
+    },
+    {
+      "name": "Neut",
+      "color": "brown",
+      "step": 15,
+      "position": "s4c",
+      "amount": 800
+    },
+    {
+      "name": "Jail",
+      "color": "white",
+      "step": 16,
+      "position": "jail",
+      "amount": null
+    },
+    {
+      "name": "Lange Poten",
+      "color": "red",
+      "step": 17,
+      "position": "s5a",
+      "amount": 900
+    },
+    {
+      "name": "Lange Poten",
+      "color": "red",
+      "step": 18,
+      "position": "s5b",
+      "amount": 950
+    },
+    {
+      "name": "Lange Poten",
+      "color": "red",
+      "step": 19,
+      "position": "s5c",
+      "amount": 1000
+    },
+    {
+      "name": "Kans",
+      "color": "white",
+      "step": 20,
+      "position": "c3",
+      "amount": null
+    },
+    {
+      "name": "Spui",
+      "color": "yellow",
+      "step": 21,
+      "position": "s6a",
+      "amount": 1100
+    },
+    {
+      "name": "something",
+      "color": "yellow",
+      "step": 22,
+      "position": "s6b",
+      "amount": 1150
+    },
+    {
+      "name": "something",
+      "color": "yellow",
+      "step": 23,
+      "position": "s6c",
+      "amount": 1200
+    },
+    {
+      "name": "Casino",
+      "color": "white",
+      "step": 24,
+      "position": "ca2",
+      "amount": null
+    },
+    {
+      "name": "something",
+      "color": "darkgreen",
+      "step": 25,
+      "position": "s7a",
+      "amount": 1300
+    },
+    {
+      "name": "something",
+      "color": "darkgreen",
+      "step": 26,
+      "position": "s7b",
+      "amount": 1350
+    },
+    {
+      "name": "Coolsingel",
+      "color": "darkgreen",
+      "step": 27,
+      "position": "s7c",
+      "amount": 1400
+    },
+    {
+      "name": "Kans",
+      "color": "white",
+      "step": 28,
+      "position": "c4",
+      "amount": null
+    },
+    {
+      "name": "something",
+      "color": "darkblue",
+      "step": 29,
+      "position": "s8a",
+      "amount": 1500
+    },
+    {
+      "name": "Leidse Plein",
+      "color": "darkblue",
+      "step": 30,
+      "position": "s8b",
+      "amount": 1550
+    },
+    {
+      "name": "Kalverstraat",
+      "color": "darkblue",
+      "step": 31,
+      "position": "s8c",
+      "amount": 1600
+    }
+  ]
+}
